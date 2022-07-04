@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67bd161f.css",
+    "main.js": "/static/js/main.b687b545.js",
+    "static/js/787.734eb8fc.chunk.js": "/static/js/787.734eb8fc.chunk.js",
+    "static/media/LogoUGM.svg": "/static/media/LogoUGM.dedc868621a99444077d30e77978783b.svg",
+    "static/media/Descent.svg": "/static/media/Descent.2f4fa3fe819e4cebcbbdcc3805103884.svg",
+    "static/media/Pressure.svg": "/static/media/Pressure.61bd570b20c928ca2169da649d7c652b.svg",
+    "static/media/Gyro.svg": "/static/media/Gyro.61670d153c8c015fddecad24b308c6d4.svg",
+    "static/media/Ugrasena.svg": "/static/media/Ugrasena.ce212dbb946e4573d3758763d35a8060.svg",
+    "static/media/Altitude.svg": "/static/media/Altitude.fbbc58ba52853723f4cb6f5bf1e87309.svg",
+    "static/media/Raw.svg": "/static/media/Raw.94a66fcd446bd5ad10dabcd0359ccef9.svg",
+    "static/media/Login.svg": "/static/media/Login.22480a9aa814d9ed9f5fceb024934c54.svg",
+    "static/media/Temperature.svg": "/static/media/Temperature.daa41dbfaea848fb7b40fed835e5fefd.svg",
+    "static/media/Spining.svg": "/static/media/Spining.18e1b20b1782e9a8c38de0e73e28a067.svg",
+    "static/media/map.svg": "/static/media/map.b358c33b689b154a269a904c7a509b95.svg",
+    "index.html": "/index.html",
+    "static/media/Volt.svg": "/static/media/Volt.021359572b5e9f0450af39c2e47be022.svg",
+    "main.67bd161f.css.map": "/static/css/main.67bd161f.css.map",
+    "main.b687b545.js.map": "/static/js/main.b687b545.js.map",
+    "787.734eb8fc.chunk.js.map": "/static/js/787.734eb8fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67bd161f.css",
+    "static/js/main.b687b545.js"
+  ]
+}
